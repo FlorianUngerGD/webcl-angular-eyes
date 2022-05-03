@@ -1,0 +1,17 @@
+:host {
+  margin: 0;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+app-eye {
+  position: absolute;
+}
+#leftEye {
+  top: 100px;
+  left: 100px;
+}
+#rightEye {
+  top: 100px;
+  left: 250px;
+}
